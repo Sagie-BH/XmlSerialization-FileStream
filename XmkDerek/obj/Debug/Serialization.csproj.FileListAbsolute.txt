@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\bin\Debug\XmkDerek.exe.config
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\bin\Debug\XmkDerek.exe
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\bin\Debug\XmkDerek.pdb
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\obj\Debug\XmkDerek.exe
+C:\Users\Sagie\source\repos\FirstXml\XmkDerek\obj\Debug\XmkDerek.pdb

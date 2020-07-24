@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\bin\Debug\XmlLinq.exe.config
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\bin\Debug\XmlLinq.exe
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\bin\Debug\XmlLinq.pdb
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\obj\Debug\XmlLinq.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\obj\Debug\XmlLinq.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\obj\Debug\XmlLinq.exe
+C:\Users\Sagie\source\repos\FirstXml\XmlLinq\obj\Debug\XmlLinq.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\bin\Debug\LoadingAndParsingXmlForm.exe.config
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\bin\Debug\LoadingAndParsingXmlForm.exe
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\bin\Debug\LoadingAndParsingXmlForm.pdb
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.Form1.resources
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.Properties.Resources.resources
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.exe
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\obj\Debug\LoadingAndParsingXmlForm.pdb
+C:\Users\Sagie\source\repos\FirstXml\LoadingAndParsingXmlForm\bin\Debug\Cars.xml

@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\bin\Debug\LinqToXml.exe.config
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\bin\Debug\LinqToXml.exe
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\obj\Debug\LinqToXml.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\obj\Debug\LinqToXml.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\obj\Debug\LinqToXml.exe
+C:\Users\Sagie\source\repos\FirstXml\LinqToXml\obj\Debug\LinqToXml.pdb

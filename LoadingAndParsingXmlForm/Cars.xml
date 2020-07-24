@@ -1,0 +1,32 @@
+﻿<root>
+  <cars name="Honda">
+    <year>1999</year>
+    <model>Civic</model>
+    <clolrs>White,Blue,Red</clolrs>
+  </cars>
+  <cars name="Toyota">
+    <year>2010</year>
+    <model>Prius</model>
+    <clolrs>White,Red,BLACK</clolrs>
+  </cars>
+  <cars name="Chevrolet">
+    <year>2012</year>
+    <model>2500 HD</model>
+    <clolrs>Blue,Grey,Red</clolrs>
+  </cars>
+  <cars name="Kia">
+    <year>2016</year>
+    <model>Sportage</model>
+    <clolrs>White,Blue,Grey</clolrs>
+  </cars>
+  <cars name="BMW">
+    <year>2009</year>
+    <model>Amd</model>
+    <clolrs>White,Blue,Metalic</clolrs>
+  </cars>
+  <cars name="Opel">
+    <year>2020</year>
+    <model>Balerina</model>
+    <clolrs>White,Blue,Red</clolrs>
+  </cars>
+</root>

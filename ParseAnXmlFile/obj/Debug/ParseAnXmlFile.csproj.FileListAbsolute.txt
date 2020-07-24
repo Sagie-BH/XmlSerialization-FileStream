@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\bin\Debug\EmployeeData.xml
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\bin\Debug\ParseAnXmlFile.exe.config
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\bin\Debug\ParseAnXmlFile.exe
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\bin\Debug\ParseAnXmlFile.pdb
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.Form1.resources
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.Properties.Resources.resources
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.exe
+C:\Users\Sagie\source\repos\FirstXml\ParseAnXmlFile\obj\Debug\ParseAnXmlFile.pdb

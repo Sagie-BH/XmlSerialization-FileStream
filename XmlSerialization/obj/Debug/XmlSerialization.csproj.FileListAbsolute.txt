@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\bin\Debug\XmlSerialization.exe.config
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\bin\Debug\XmlSerialization.exe
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\bin\Debug\XmlSerialization.pdb
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\obj\Debug\XmlSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\obj\Debug\XmlSerialization.exe
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\obj\Debug\XmlSerialization.pdb
+C:\Users\Sagie\source\repos\FirstXml\XmlSerialization\obj\Debug\XmlSerialization.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\bin\Debug\JsonPrac.exe.config
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\bin\Debug\JsonPrac.exe
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\bin\Debug\JsonPrac.pdb
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\obj\Debug\JsonPrac.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\obj\Debug\JsonPrac.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\obj\Debug\JsonPrac.csproj.CopyComplete
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\obj\Debug\JsonPrac.exe
+C:\Users\Sagie\source\repos\FirstXml\JsonPrac\obj\Debug\JsonPrac.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\bin\Debug\ClassLinkToXml.exe.config
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\bin\Debug\ClassLinkToXml.exe
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\bin\Debug\ClassLinkToXml.pdb
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\obj\Debug\ClassLinkToXml.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\obj\Debug\ClassLinkToXml.exe
+C:\Users\Sagie\source\repos\FirstXml\ClassLinkToXml\obj\Debug\ClassLinkToXml.pdb

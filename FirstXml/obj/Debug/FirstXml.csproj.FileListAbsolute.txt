@@ -1,0 +1,6 @@
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\obj\Debug\FirstXml.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\bin\Debug\FirstXml.exe.config
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\bin\Debug\FirstXml.exe
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\bin\Debug\FirstXml.pdb
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\obj\Debug\FirstXml.exe
+C:\Users\Sagie\source\repos\FirstXml\FirstXml\obj\Debug\FirstXml.pdb

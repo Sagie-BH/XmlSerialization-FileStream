@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <Employee name="Gidon">
+    <Age>64</Age>
+    <IsMale>True</IsMale>
+  </Employee>
+  
+  <Employee name="Reut">
+    <Age>38</Age>
+    <IsMale>False</IsMale>
+  </Employee>
+  
+  <Employee name="Sara">
+    <Age>59</Age>
+    <IsMale>False</IsMale>
+  </Employee>
+  
+  <Employee name="Sagie">
+    <Age>32</Age>
+    <IsMale>True</IsMale>
+  </Employee>
+  
+</root>

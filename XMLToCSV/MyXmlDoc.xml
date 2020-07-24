@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Student object to Xml-->
+<Students>
+  <Student Id="99">
+    <Name>Bite_The_Dust</Name>
+    <Grade>1000</Grade>
+    <Is_Male>true</Is_Male>
+  </Student>
+  <Student Id="100">
+    <Name>Hana</Name>
+    <Grade>100</Grade>
+    <Is_Male>false</Is_Male>
+  </Student>
+  <Student Id="101">1</Student>
+  <Student Id="102">
+    <Name>Yael</Name>
+    <Grade>74</Grade>
+    <Is_Male>false</Is_Male>
+  </Student>
+  <Student Id="7652">
+    <Name>Duhafit</Name>
+    <Grade>12</Grade>
+    <Is_Male>false</Is_Male>
+  </Student>
+  <Student Id="103">
+    <Name>Avi</Name>
+    <Grade>99</Grade>
+    <Is_Male>true</Is_Male>
+  </Student>
+  <Student Id="104">
+    <Name>Sara</Name>
+    <Grade>88</Grade>
+    <Is_Male>false</Is_Male>
+  </Student>
+  <Student Id="105">
+    <Name>Tipesh</Name>
+    <Grade>66</Grade>
+    <Is_Male>true</Is_Male>
+  </Student>
+  <Student Id="110">
+    <Name>Batman</Name>
+    <Grade>100000</Grade>
+    <Is_Male>true</Is_Male>
+  </Student>
+</Students>

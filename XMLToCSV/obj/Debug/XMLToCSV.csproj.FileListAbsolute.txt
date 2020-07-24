@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\bin\Debug\XMLToCSV.exe.config
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\bin\Debug\XMLToCSV.exe
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\bin\Debug\XMLToCSV.pdb
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\obj\Debug\XMLToCSV.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\obj\Debug\XMLToCSV.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\obj\Debug\XMLToCSV.exe
+C:\Users\Sagie\source\repos\FirstXml\XMLToCSV\obj\Debug\XMLToCSV.pdb

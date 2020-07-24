@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\Stream\bin\Debug\Stream.exe.config
+C:\Users\Sagie\source\repos\FirstXml\Stream\bin\Debug\Stream.exe
+C:\Users\Sagie\source\repos\FirstXml\Stream\bin\Debug\Stream.pdb
+C:\Users\Sagie\source\repos\FirstXml\Stream\obj\Debug\Stream.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\Stream\obj\Debug\Stream.exe
+C:\Users\Sagie\source\repos\FirstXml\Stream\obj\Debug\Stream.pdb

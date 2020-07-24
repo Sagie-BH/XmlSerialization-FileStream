@@ -1,0 +1,7 @@
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\bin\Debug\IOIntreductionn.exe.config
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\bin\Debug\IOIntreductionn.exe
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\bin\Debug\IOIntreductionn.pdb
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\obj\Debug\IOIntreductionn.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\obj\Debug\IOIntreductionn.csproj.CoreCompileInputs.cache
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\obj\Debug\IOIntreductionn.exe
+C:\Users\Sagie\source\repos\FirstXml\IOIntreductionn\obj\Debug\IOIntreductionn.pdb
